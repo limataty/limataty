@@ -1,4 +1,5 @@
-### Oie! Sou a Tatyana
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=3800&pause=1000&color=6B5DF7&width=435&lines=Oie!+Me+chamo+Tatyana)](https://git.io/typing-svg)
+ ##
 
  <div>
   <a href="https://github.com/rafaballerini">
